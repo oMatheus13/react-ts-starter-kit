@@ -38,4 +38,4 @@ Starter kit minimal focado em estrutura de pastas e arquitetura de CSS. Sem boil
 - `src/index.tsx` ja importa `src/styles/main.css`.
 
 ## Licenca
-Este projeto e open source e gratuito. Adicione sua licenca em `LICENSE`.
+Adicione sua licenca em `LICENSE`.
