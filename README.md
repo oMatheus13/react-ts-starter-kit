@@ -1,13 +1,13 @@
 # React TS Starter Kit
 
-Minimal starter kit focused on folder structure and CSS architecture. No boilerplate code: files are intentionally empty so you can wire your own stack.
+Starter kit minimal focado em estrutura de pastas e arquitetura de CSS. Sem boilerplate: os arquivos ficam intencionalmente vazios para voce conectar sua propria stack.
 
-## What is included
-- Scalable React/TypeScript folder layout
-- Styles architecture with layered `main.css` and per-folder `index.css`
-- Placeholders for components, pages, layouts, hooks, services, store, types, and utilities
+## O que esta incluido
+- Estrutura de pastas escalavel para React/TypeScript
+- Arquitetura de estilos com `main.css` em camadas e `index.css` por pasta
+- Placeholders para componentes, paginas, layouts, hooks, services, store, types e utils
 
-## Structure
+## Estrutura
 - `public/`
 - `src/`
   - `assets/`
@@ -23,19 +23,19 @@ Minimal starter kit focused on folder structure and CSS architecture. No boilerp
   - `utils/`
   - `config/`
 
-## Styles
-- `src/styles/main.css` imports: base, theme, utilities, componentes, layouts, pages, vendor.
-- Each folder has `index.css` that imports its local files.
-- `src/styles/base/` includes `fonts`, `reset`, `variables`, `icons`, `elements`, `forms`, `animations`, `print`.
+## Estilos
+- `src/styles/main.css` importa: base, theme, utilities, componentes, layouts, pages, vendor.
+- Cada pasta tem `index.css` que importa seus arquivos locais.
+- `src/styles/base/` inclui `fonts`, `reset`, `variables`, `icons`, `elements`, `forms`, `animations`, `print`.
 
-## Getting started
-1) Choose your tooling (Vite, CRA, Next, etc).
-2) Fill `package.json`, `tsconfig.json`, `vite.config.js`, and `public/index.html`.
-3) Build your features and pages inside `src/`.
+## Como comecar
+1) Escolha sua ferramenta (Vite, CRA, Next, etc).
+2) Preencha `package.json`, `tsconfig.json`, `vite.config.js` e `public/index.html`.
+3) Construa suas features e paginas dentro de `src/`.
 
-## Notes
-- Empty files are deliberate. Remove what you do not use.
-- `src/index.tsx` already imports `src/styles/main.css`.
+## Notas
+- Arquivos vazios sao intencionais. Remova o que nao usar.
+- `src/index.tsx` ja importa `src/styles/main.css`.
 
-## License
-Add your license to `LICENSE`.
+## Licenca
+Adicione sua licenca em `LICENSE`.
