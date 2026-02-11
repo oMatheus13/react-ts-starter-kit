@@ -33,6 +33,12 @@ Starter kit minimal focado em estrutura de pastas e arquitetura de CSS. Sem boil
 2) Preencha `package.json`, `tsconfig.json`, `vite.config.js` e `public/index.html`.
 3) Construa suas features e paginas dentro de `src/`.
 
+## Como baixar a estrutura
+```sh
+git clone https://github.com/oMatheus13/react-ts-starter-kit.git
+cd react-ts-starter-kit
+```
+
 ## Notas
 - Arquivos vazios sao intencionais. Remova o que nao usar.
 - `src/index.tsx` ja importa `src/styles/main.css`.
