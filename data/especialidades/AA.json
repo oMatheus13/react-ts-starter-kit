@@ -1,0 +1,8 @@
+{
+  "_comment": "Lista de especialidades da area AA. Adicione itens na chave especialidades.",
+  "area": {
+    "sigla": "AA",
+    "nome": "Atividades Agricolas"
+  },
+  "especialidades": []
+}

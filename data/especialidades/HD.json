@@ -1,0 +1,8 @@
+{
+  "_comment": "Lista de especialidades da area HD. Adicione itens na chave especialidades.",
+  "area": {
+    "sigla": "HD",
+    "nome": "Habilidades Domesticas"
+  },
+  "especialidades": []
+}

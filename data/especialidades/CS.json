@@ -1,0 +1,8 @@
+{
+  "_comment": "Lista de especialidades da area CS. Adicione itens na chave especialidades.",
+  "area": {
+    "sigla": "CS",
+    "nome": "Ciencia e Saude"
+  },
+  "especialidades": []
+}

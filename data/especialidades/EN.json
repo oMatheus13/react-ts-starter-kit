@@ -1,0 +1,8 @@
+{
+  "_comment": "Lista de especialidades da area EN. Adicione itens na chave especialidades.",
+  "area": {
+    "sigla": "EN",
+    "nome": "Estudos da Natureza"
+  },
+  "especialidades": []
+}

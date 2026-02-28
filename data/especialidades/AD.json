@@ -1,0 +1,8 @@
+{
+  "_comment": "Lista de especialidades da area AD. Adicione itens na chave especialidades.",
+  "area": {
+    "sigla": "AD",
+    "nome": "ADRA"
+  },
+  "especialidades": []
+}

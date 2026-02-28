@@ -1,0 +1,8 @@
+{
+  "_comment": "Lista de especialidades da area AM. Adicione itens na chave especialidades.",
+  "area": {
+    "sigla": "AM",
+    "nome": "Atividades Missionarias e Comunitarias"
+  },
+  "especialidades": []
+}
