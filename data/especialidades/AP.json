@@ -1,8 +1,0 @@
-{
-  "_comment": "Lista de especialidades da area AP. Adicione itens na chave especialidades.",
-  "area": {
-    "sigla": "AP",
-    "nome": "Atividades Profissionais"
-  },
-  "especialidades": []
-}

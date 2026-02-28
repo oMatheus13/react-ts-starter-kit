@@ -1,8 +1,0 @@
-{
-  "_comment": "Lista de especialidades da area AMEB. Adicione itens na chave especialidades.",
-  "area": {
-    "sigla": "AMEB",
-    "nome": "Ensinos Biblicos"
-  },
-  "especialidades": []
-}

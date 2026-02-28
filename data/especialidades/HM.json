@@ -1,8 +1,0 @@
-{
-  "_comment": "Lista de especialidades da area HM. Adicione itens na chave especialidades.",
-  "area": {
-    "sigla": "HM",
-    "nome": "Artes e Habilidades Manuais"
-  },
-  "especialidades": []
-}

@@ -1,8 +1,0 @@
-{
-  "_comment": "Lista de especialidades da area ME. Adicione itens na chave especialidades.",
-  "area": {
-    "sigla": "ME",
-    "nome": "Mestrados de Especialidades"
-  },
-  "especialidades": []
-}

@@ -1,8 +1,0 @@
-{
-  "_comment": "Lista de especialidades da area AR. Adicione itens na chave especialidades.",
-  "area": {
-    "sigla": "AR",
-    "nome": "Atividades Recreativas"
-  },
-  "especialidades": []
-}
